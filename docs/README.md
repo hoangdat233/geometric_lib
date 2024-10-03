@@ -86,7 +86,16 @@ _Input: `4`_
 _Output: `50.24 25.12`_
 
 # История изменения проекта с хешами комитов
-- _commit 7e6c710e085053112323b22d896087f3639a9102_
+
+- _**commit 4f6015fb35ea095d4e57523ffc2b4c987bb1a035**_
+``` 
+Author: Hoang Ngoc Dat <407880@niuitmo.ru>
+Date:   Thu Oct 3 12:43:35 2024 +0300
+    
+    Update Readme.md file
+```
+
+- _**commit 7e6c710e085053112323b22d896087f3639a9102**_
 ``` 
 Author: Hoang Ngoc Dat <407880@niuitmo.ru>
 Date:   Thu Oct 3 12:19:51 2024 +0300
@@ -94,7 +103,7 @@ Date:   Thu Oct 3 12:19:51 2024 +0300
     Add more to explain
 ```
 
-- _commit 746c3a18de806c396070b8a71e764e69c3d7176d_
+- _**commit 746c3a18de806c396070b8a71e764e69c3d7176d**_
 ``` 
 Author: Hoang Ngoc Dat <407880@niuitmo.ru>
 Date:   Thu Oct 3 11:43:35 2024 +0300
@@ -102,7 +111,7 @@ Date:   Thu Oct 3 11:43:35 2024 +0300
     Add comment to circle.py
 ```
 
-- _commit c5c3db2f82030561f4f7669a87429941126d3a35_
+- _**commit c5c3db2f82030561f4f7669a87429941126d3a35**_
 ``` 
 Author: Hoang Ngoc Dat <407880@niuitmo.ru>
 Date:   Thu Oct 3 11:42:59 2024 +0300
@@ -110,7 +119,7 @@ Date:   Thu Oct 3 11:42:59 2024 +0300
     Add comment to square.py
 ```
 
-- _commit c5c3db2f82030561f4f7669a87429941126d3a35_
+- _**commit c5c3db2f82030561f4f7669a87429941126d3a35**_
 ``` 
 Author: Hoang Ngoc Dat <407880@niuitmo.ru>
 Date:   Thu Oct 3 11:42:10 2024 +0300
@@ -118,7 +127,7 @@ Date:   Thu Oct 3 11:42:10 2024 +0300
     Add comment to triangle.py
 ```
 
-- _commit 0be759905089e1944aea66b89b7f6fb212466629_
+- _**commit 0be759905089e1944aea66b89b7f6fb212466629**_
 ``` 
 Author: Hoang Ngoc Dat <407880@niuitmo.ru>
 Date:   Thu Oct 3 11:41:42 2024 +0300

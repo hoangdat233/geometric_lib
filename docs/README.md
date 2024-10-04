@@ -86,6 +86,13 @@ _Input: `4`_
 _Output: `50.24 25.12`_
 
 # История изменения проекта с хешами комитов
+- _**commit 9dd27b94ab39c1ad4266f3a9ff9276239e9d987e**_
+``` 
+Author: Hoang Ngoc Dat <407880@niuitmo.ru>
+Date:   Thu Oct 3 18:59:55 2024 +0300
+    
+    Update Readme.md file the second time
+```
 
 - _**commit 4f6015fb35ea095d4e57523ffc2b4c987bb1a035**_
 ``` 

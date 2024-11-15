@@ -8,6 +8,10 @@ def area(a):
     
     '''
     
+    # Проверка на корректность ввода
+    if not isinstance(a, (int, float)) or a < 0 or a > 10**10:
+        return "wrong input"
+    
     return a * a
 
 def perimeter(a):
@@ -19,5 +23,9 @@ def perimeter(a):
     Output: 12
     
     '''
+    
+    # Проверка на корректность ввода
+    if not isinstance(a, (int, float)) or a < 0 or a > 10**10:
+        return "wrong input"
     
     return 4 * a

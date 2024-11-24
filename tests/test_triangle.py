@@ -61,3 +61,6 @@ class TriangleTestCase(unittest.TestCase):
 
     def test_fiveteen_mul(self):
         self.assertEqual(triangle.perimeter(10**15, 3, 4), "wrong input")
+
+if __name__ == '__main__':
+    unittest.main()

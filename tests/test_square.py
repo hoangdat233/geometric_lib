@@ -61,3 +61,6 @@ class SquareTestCase(unittest.TestCase):
 
     def test_fiveteen_mul(self):
         self.assertEqual(square.perimeter(100000000000000000000), "wrong input")
+
+if __name__ == '__main__':
+    unittest.main()

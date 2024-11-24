@@ -70,4 +70,6 @@ class CircleTestCase(unittest.TestCase):
         res = circle.perimeter(10000000000000000000000000)
         self.assertEqual(res, "wrong input")
 
+if __name__ == '__main__':
+    unittest.main()
 

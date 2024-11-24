@@ -56,3 +56,6 @@ class RectangleTestCase(unittest.TestCase):
 
     def test_fiveteen_mul(self):
         self.assertEqual(rectangle.perimeter(10000000000000000000000000, 9), "wrong input")
+
+if __name__ == '__main__':
+    unittest.main()
